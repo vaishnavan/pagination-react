@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <h1>demo deploy in netlify dgugudyg dhyhd</h1>
+      <p>Check update</p>
     </div>
   )
 }
